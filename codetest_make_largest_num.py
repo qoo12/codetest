@@ -15,4 +15,4 @@ def solution(numbers):
         arr_mem2.append(str(arr_mem[i][0]//arr_mem[i][1]))
         answer += arr_mem2[i]
     
-    return 
+    return answer
